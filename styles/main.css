@@ -1,0 +1,93 @@
+.btn {
+    display: block;
+    position: relative;
+    width: 200px;
+    margin: auto !important;
+    margin-top: 25px;
+}
+
+.bg-primary {
+    background-color: #237325;
+}
+
+.navbar-default.affix .nav>li>a:focus:hover,
+.navbar-default.affix .nav>li>a:hover {
+    color: #088a07;
+}
+.footer{
+  position: absolute;
+  right: 0;
+  left: 0;
+  text-align: center;
+  font-size:10px;
+}
+.navbar-default .nav>li.active>a,
+.navbar-default .nav>li.active>a:focus {
+    color: #088a07!important;
+}
+
+.portfolio-box .portfolio-box-caption {
+    background-color: #58a557;
+}
+
+a {
+    color: #237325;
+}
+.flex{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex>p>a{
+    color:#fff;
+}
+hr {
+    border-color: #237325;
+}
+.aside{
+    background-color:black;
+    color:#fff;
+}
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:hover {
+    background-color: #72b974;
+}
+
+.btn-primary,
+.btn-primary.active,
+.open>.dropdown-toggle.btn-primary {
+    background-color: #237325;
+}
+
+.navbar-default.affix .navbar-header .navbar-brand:focus,
+.navbar-default.affix .navbar-header .navbar-brand:hover {
+    color: #72cec2;
+}
+
+.navbar-default.affix .navbar-header .navbar-brand {
+    color: #237325;
+}
+
+div.gallery {
+    background-color: #e3e9f2;
+    width: 100%;
+    margin: 0;
+}
+
+.gal-btn {
+    background-color: #e3e9f2;
+    margin: 0;
+    width: 100%;
+}
+
+a.portfolio-box {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+@media (min-width: 768px) creative.min.css:5 .navbar-default.affix .nav>li>a:focus:hover,
+.navbar-default.affix .nav>li>a:hover {
+    color: #088a07;
+}
